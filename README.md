@@ -26,8 +26,7 @@ I'm Fahad MB
 - Backend Development with Node.js & Express.js
 - Building Real-World Projects
 
-🎯 Goal
-Become a Full Stack Developer and build scalable web applications.
+
 
 ⚡ Fun Fact
 I transitioned from a Biology background into Software Development and enjoy solving problems through code.
