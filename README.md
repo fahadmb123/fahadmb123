@@ -19,14 +19,6 @@ I'm Fahad MB
 - Backend Development
 - Database Design
 
-📚 Current Focus
-- Advanced SQL
-- TypeScript Fundamentals
-- MongoDB
-- Backend Development with Node.js & Express.js
-- Building Real-World Projects
-
-
 
 ⚡ Fun Fact
 I transitioned from a Biology background into Software Development and enjoy solving problems through code.
