@@ -3,7 +3,7 @@
 
 I'm Fahad MB
 
-🌱 A software development learner with a Biology background, currently exploring modern web technologies.
+ A software development learner with a Biology background, currently exploring modern web technologies.
 
 💻 Currently Learning
 - JavaScript
