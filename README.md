@@ -22,7 +22,7 @@
 
     [1;33mserver_and_performance[0m: {
       [1;36mbackend[0m: [1;33m"RESTful API Endpoints & Realtime WebSockets"[0m,
-      [1;36mperformance[0m: [1;32m"Sub-Second FCP & 60fps Micro-interactions"[0m
+      [1;36mperformance[0m: [1;32m"Sub-Second FCP &  Micro-interactions"[0m
     }
   },
 
