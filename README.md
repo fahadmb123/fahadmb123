@@ -1,53 +1,55 @@
+```json
 {
   "developer": {
     "name": "Fahad MB",
     "title": "Software Developer & Product Builder",
-    "background": "Biology & Life Sciences ➔ Software Engineering",
-    "location": "Available Worldwide / Remote",
-    "status": "Actively Building & Open to High-Impact Opportunities"
+    "background": "Biology ➔ Software Engineering",
+    "location": "Worldwide / Remote",
+    "status": "Available for High-Impact Projects"
   },
   "current_focus": {
-    "frontend": "Modern React 19 Ecosystem & Next.js",
-    "architecture": "Modular Component Systems & Strict Type Safety",
-    "backend": "Scalable REST APIs & Realtime WebSockets",
-    "performance": "Sub-Second First Contentful Paint & 60fps Micro-interactions"
+    "frontend": "React 19, TypeScript & Next.js",
+    "architecture": "Modular Component Systems & Clean Architecture",
+    "backend": "RESTful API Endpoints & Realtime WebSockets",
+    "performance": "Sub-Second FCP & Core Web Vitals"
   },
   "technical_ecosystem": {
     "core_languages": {
-      "primary": "TypeScript (Strict Mode)",
+      "primary": "TypeScript (Strict Type-Safe)",
       "scripting": "JavaScript (Modern ESNext)",
-      "database_query": "SQL (Structured Query Language)",
-      "markup_and_styling": "Semantic HTML5 & Modern CSS3"
+      "database": "SQL (Relational Queries)",
+      "markup": "HTML5 & Modern CSS3"
     },
     "frontend_engineering": {
       "frameworks": "React 19 & Next.js",
-      "design_systems": "Tailwind CSS & Tokenized Architecture",
-      "motion_and_ux": "Motion (Framer) & Lenis Smooth Scroll",
-      "build_orchestration": "Vite & Modern Bundlers",
-      "quality_standards": "WCAG AA Accessibility & Cross-Device Responsiveness"
+      "styling": "Tailwind CSS & Token Systems",
+      "motion": "Motion (Framer) & Smooth Scroll",
+      "tooling": "Vite & Modern Bundlers",
+      "standards": "WCAG AA Accessible & Responsive"
     },
     "backend_and_apis": {
-      "runtime_environment": "Node.js (LTS)",
-      "server_framework": "Express.js & Modular Controllers",
-      "api_paradigms": "RESTful API Standards & WebSockets",
-      "security_and_auth": "JWT Authentication & Secure Session Handling"
+      "runtime": "Node.js (LTS)",
+      "server": "Express.js & Modular Routing",
+      "paradigms": "REST APIs & WebSockets",
+      "auth": "JWT Authentication & Security"
     },
-    "storage_and_databases": {
-      "relational_database": "PostgreSQL & Relational Schemas",
-      "document_store": "MongoDB & BSON Data Modeling",
-      "caching_layer": "Redis In-Memory Key-Value & PubSub",
-      "cloud_baas": "Supabase & Firebase Ecosystem"
+    "databases_and_cache": {
+      "relational": "PostgreSQL & Relational Schemas",
+      "document": "MongoDB & BSON Models",
+      "cache": "Redis In-Memory Key-Value",
+      "cloud": "Supabase & Firebase"
     },
-    "workflow_and_devops": {
-      "version_control": "Git & GitHub Collaborative Workflows",
-      "containers": "Docker & Containerized Microservices",
-      "developer_tooling": "VS Code, Postman & Linux CLI",
-      "ui_design_handoff": "Figma Component Specs to Code"
+    "workflow_and_tools": {
+      "git": "Git & GitHub Workflows",
+      "containers": "Docker Environments",
+      "editor": "VS Code & Linux CLI",
+      "design": "Figma to Production Code"
     }
   },
-  "engineering_principles": {
-    "code_architecture": "Clean Code, DRY & Single Responsibility",
-    "product_sensibility": "Interfaces that feel intuitive, deliberate, and reliable",
-    "systems_mindset": "Hypothesis-driven problem solving rooted in biological science"
+  "principles": {
+    "philosophy": "Clean Code & Single Responsibility",
+    "user_experience": "Fast, intuitive, and considered UI",
+    "mindset": "Methodical problem-solving rooted in biological systems"
   }
 }
+```
